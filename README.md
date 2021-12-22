@@ -1,2 +1,19 @@
 # mlwscv2002
-Duke Machine Learning Winter School: Computer Vision 2021 
+Welcome to the Duke Machine Learning Winter School: Computer Vision 2022!
+
+The MLWS-CV includes 3 hands-on training sessions on implementing machine learning tools with the PyTorch software platform. You can see the full description at https://plus.datascience.duke.edu/mlwscv2022
+
+Day 1: Introduction to PyTorch (Billy Carson)
+
+    Student notebook (contains space for student to code along): ...
+    Full solutions notebook: ...
+
+Day 2: Pytorch for image analysis with convolutional neural networks (Gavin Karr)
+
+    Student notebook (contains space for student to code along): ...
+    Full solutions notebook: ...
+
+Day 3: PyTorch for image analysis including image segmentation and object detection (Akhil Ambekar)
+
+    Student notebook (contains space for student to code along): ...
+    Full solutions notebook: ...
