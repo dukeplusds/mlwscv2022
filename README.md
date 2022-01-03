@@ -22,3 +22,5 @@ Day 3: PyTorch for image analysis including image segmentation and object detect
     Part 2:
     Student notebook (contains space for student to code along): https://github.com/dukeplusds/mlwscv2022/blob/main/day3_student_notebook_part2.ipynb
     Full solutions notebook: https://github.com/dukeplusds/mlwscv2022/blob/main/day3_solutions_notebook_part2.ipynb
+
+We are using a virtual computing environment provided by Duke's Office of Information Technology (OIT). For those that are interested, the source code for the Docker container can be found here: https://gitlab.oit.duke.edu/mccahill/ml-winter-school
